@@ -2,32 +2,32 @@
 part1 :
 This is the returned json data for student information management system
 
-{
-    "Username": "Hulk007633",
-    "Student Name": "John Wick",
-    "StudentNo": "ts0011223",
-    "Sex": "male",
-    "Phone": "111999922222",
-    "Dormitory": "North 4",
-    
-    "Selected Courses": [
-        {
-            "Course Name": "Operating System",
-            "CoursesNo": "CS20220101",
-            "Course Score": "97" 
-        },
-        {
-            "Course Name": "Computer Network",
-            "CoursesNo": "CS20220102",
-            "Course Score": "97" 
-        },
-        {
-            "Course Name": "Data Structure",
-            "CoursesNo": "CS20220103",
-            "Course Score": "97" 
-        }
-    ]
-}
+    {
+        "Username": "Hulk007633",
+        "Student Name": "John Wick",
+        "StudentNo": "ts0011223",
+        "Sex": "male",
+        "Phone": "111999922222",
+        "Dormitory": "North 4",
+
+        "Selected Courses": [
+            {
+                "Course Name": "Operating System",
+                "CoursesNo": "CS20220101",
+                "Course Score": "97" 
+            },
+            {
+                "Course Name": "Computer Network",
+                "CoursesNo": "CS20220102",
+                "Course Score": "97" 
+            },
+            {
+                "Course Name": "Data Structure",
+                "CoursesNo": "CS20220103",
+                "Course Score": "97" 
+            }
+        ]
+    }
 
 part2:
 
