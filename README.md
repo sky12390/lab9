@@ -35,6 +35,7 @@ Open this url:
 https://playground.babylonjs.com/#2KRNG9#4
 
 Copy the code below:
+https://playground.babylonjs.com/#2KRNG9#562
 
     var createScene = function () {
         // This creates a basic Babylon Scene object (non-mesh)
