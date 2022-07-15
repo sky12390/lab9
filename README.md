@@ -3,28 +3,28 @@ part1 :
 This is the returned json data for student information management system
 
     {
-        "Username": "Hulk007633",
-        "Student Name": "John Wick",
-        "StudentNo": "ts0011223",
+        "Username": "Sky007633",
+        "Student Name": "Mike",
+        "StudentNo": "V009****",
         "Sex": "male",
-        "Phone": "111999922222",
-        "Dormitory": "North 4",
+        "Phone": "778-***-****",
+        "Dormitory": "No.6",
 
         "Selected Courses": [
             {
-                "Course Name": "Operating System",
-                "CoursesNo": "CS20220101",
-                "Course Score": "97" 
+                "Course Name": "Mathematical Statistics 1",
+                "CoursesNo": "Stat 350",
+                "Course Score": "A" 
             },
             {
-                "Course Name": "Computer Network",
-                "CoursesNo": "CS20220102",
-                "Course Score": "97" 
+                "Course Name": "Calculus 3",
+                "CoursesNo": "Math 200",
+                "Course Score": "B+" 
             },
             {
-                "Course Name": "Data Structure",
-                "CoursesNo": "CS20220103",
-                "Course Score": "97" 
+                "Course Name": "Complex Variables",
+                "CoursesNo": "Math 301",
+                "Course Score": "B" 
             }
         ]
     }
@@ -34,7 +34,7 @@ part2:
 Open this url:
 https://playground.babylonjs.com/#2KRNG9#4
 
-Copy the code below:
+Open this url:
 https://playground.babylonjs.com/#2KRNG9#562
 
     var createScene = function () {
