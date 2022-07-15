@@ -4,26 +4,26 @@ This is the returned json data for student information management system
 
     {
         "Username": "Sky007633",
-        "Student Name": "Mike",
-        "StudentNo": "V009****",
+        "Student Name": "",
+        "StudentNo": "",
         "Sex": "male",
-        "Phone": "778-***-****",
+        "Phone": "",
         "Dormitory": "No.6",
 
         "Selected Courses": [
             {
-                "Course Name": "Mathematical Statistics 1",
-                "CoursesNo": "Stat 350",
+                "Course Name": "",
+                "CoursesNo": "",
                 "Course Score": "A" 
             },
             {
-                "Course Name": "Calculus 3",
-                "CoursesNo": "Math 200",
+                "Course Name": "",
+                "CoursesNo": "",
                 "Course Score": "B+" 
             },
             {
-                "Course Name": "Complex Variables",
-                "CoursesNo": "Math 301",
+                "Course Name": "",
+                "CoursesNo": "",
                 "Course Score": "B" 
             }
         ]
